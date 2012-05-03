@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-//********************************************************************
-//  SolveTowers.java       Author: Lewis/Loftus
-//
-//  Demonstrates recursion.
-//********************************************************************
 
 public class SolveTowers
 {
