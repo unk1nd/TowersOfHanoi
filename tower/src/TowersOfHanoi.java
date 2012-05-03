@@ -1,8 +1,4 @@
-//********************************************************************
-//  TowersOfHanoi.java       Author: Lewis/Loftus
-//
-//  Represents the classic Towers of Hanoi puzzle.
-//********************************************************************
+
 
 public class TowersOfHanoi
 {
